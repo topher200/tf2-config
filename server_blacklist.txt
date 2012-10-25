@@ -1,0 +1,345 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"24/7 [*XXL Payload Map Rotation*] // xxlgamers.net"
+		"date"		"1290555692"
+		"addr"		"206.217.133.116:27015"
+	}
+	"server"
+	{
+		"name"		"Homeguard# Dustbowl|Goldrush|Badwater [gameME]<---------"
+		"date"		"1290555698"
+		"addr"		"89.238.160.121:27015"
+	}
+	"server"
+	{
+		"name"		" ROF - Payload Rotation - Chicago"
+		"date"		"1292691177"
+		"addr"		"67.212.160.114:27015"
+	}
+	"server"
+	{
+		"name"		" 24/7 [*XXL Stock Map Rotation*] // xxlgamers.net"
+		"date"		"1293719715"
+		"addr"		"208.115.218.43:27015"
+	}
+	"server"
+	{
+		"name"		"Team BoNK - PL 24/7 goldrush/badwater [HLStatsX]"
+		"date"		"1305436267"
+		"addr"		"66.151.138.220:27017"
+	}
+	"server"
+	{
+		"name"		"[ESP] Comunidad Batallonesp | Servidor  Multi  Mapas | Reclutam"
+		"date"		"1307805214"
+		"addr"		"212.34.147.132:27015"
+	}
+	"server"
+	{
+		"name"		"TF2 Plublic server -- Official Maps (by degamin.com)"
+		"date"		"1307838294"
+		"addr"		"91.121.157.148:24432"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HOODOO 24/7 - FAST RESPAWN"
+		"date"		"1308479756"
+		"addr"		"173.242.115.136:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | PIPELINE 24/7 - FAST RESPAWN"
+		"date"		"1308479758"
+		"addr"		"173.242.115.136:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1308479760"
+		"addr"		"173.242.116.122:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | NIGHTFALL 24/7 - FAST RESPAWN"
+		"date"		"1308479762"
+		"addr"		"50.30.33.68:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1308479765"
+		"addr"		"178.63.83.75:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Frontier Only"
+		"date"		"1308479767"
+		"addr"		"87.106.220.41:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Pipeline Only"
+		"date"		"1308479769"
+		"addr"		"212.227.135.73:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | HOODOO 24/7 - FAST RESPAWN"
+		"date"		"1308479775"
+		"addr"		"178.63.83.75:27116"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Upward Only"
+		"date"		"1308479777"
+		"addr"		"82.165.135.200:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Badwater Only"
+		"date"		"1308479779"
+		"addr"		"82.165.138.144:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | PIPELINE 24/7 - FAST RESPAWN"
+		"date"		"1308479780"
+		"addr"		"178.63.83.75:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | THUNDER MOUNTAIN 24/7 - FAST RESPAW"
+		"date"		"1308479783"
+		"addr"		"178.63.83.75:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | NIGHTFALL 24/7 - FAST RESPAWN"
+		"date"		"1308479786"
+		"addr"		"46.4.85.38:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | THUNDER MOUNTAIN 24/7 - FAST RESPAW"
+		"date"		"1308479788"
+		"addr"		"173.242.115.136:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | BADWATER 24/7 - FAST RESPAWN"
+		"date"		"1308479789"
+		"addr"		"173.242.116.122:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1308479791"
+		"addr"		"173.242.115.136:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1308479793"
+		"addr"		"178.63.95.86:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Goldrush Only"
+		"date"		"1308479795"
+		"addr"		"82.165.138.144:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | FRONTIER 24/7 - FAST RESPAWN"
+		"date"		"1308479801"
+		"addr"		"46.4.85.38:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | BADWATER 24/7 - FAST RESPAWN"
+		"date"		"1308479803"
+		"addr"		"178.63.95.86:27017"
+	}
+	"server"
+	{
+		"name"		"Tribe of Judah :: Christian Team Fortress 2"
+		"date"		"1309592160"
+		"addr"		"8.12.19.2:27015"
+	}
+	"server"
+	{
+		"name"		"Lost Continents - Mu"
+		"date"		"1318115464"
+		"addr"		"173.236.101.35:27015"
+	}
+	"server"
+	{
+		"name"		"Golden Machine Gun | Tunnel Achievements"
+		"date"		"1319874085"
+		"addr"		"65.99.193.34:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | BADWATER 24/7 - FAST RESPAWN"
+		"date"		"1319874471"
+		"addr"		"64.31.12.26:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1319874474"
+		"addr"		"64.31.12.26:27017"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - BADWATER | DALLAS TX"
+		"date"		"1319874479"
+		"addr"		"74.63.240.122:27316"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - HOODOO | DALLAS TX"
+		"date"		"1319874481"
+		"addr"		"74.63.240.122:27225"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - FRONTEIR | DALLAS TX"
+		"date"		"1319874482"
+		"addr"		"74.63.240.122:27117"
+	}
+	"server"
+	{
+		"name"		"        [QuickFrag.com] Badwater 24/7 | Stats"
+		"date"		"1320297445"
+		"addr"		"199.192.230.101:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | EU2"
+		"date"		"1320297497"
+		"addr"		"188.165.211.23:2015"
+	}
+	"server"
+	{
+		"name"		"        [QuickFrag.com] Goldrush 24/7 | Stats"
+		"date"		"1320297773"
+		"addr"		"199.192.230.98:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Payload Stocks | West Coast"
+		"date"		"1320379880"
+		"addr"		"38.105.22.116:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Goldrush | East Coast (x33)"
+		"date"		"1320379886"
+		"addr"		"64.237.38.21:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Payload Stocks | Chicago"
+		"date"		"1320379889"
+		"addr"		"184.154.170.243:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater | Texas (x33)"
+		"date"		"1320379891"
+		"addr"		"208.115.218.38:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Goldrush/Badwater | Texas (x33)"
+		"date"		"1320379894"
+		"addr"		"64.31.28.37:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater | Texas"
+		"date"		"1320379898"
+		"addr"		"69.162.126.140:27015"
+	}
+	"server"
+	{
+		"name"		"    [QuickFrag.com] Stock Maps | Stats"
+		"date"		"1320617916"
+		"addr"		"199.192.230.100:27015"
+	}
+	"server"
+	{
+		"name"		"Mr. Green TF2 #1 | PAYLOAD / CP | FAST-RESPAWN | LEFT4GREEN.COM"
+		"date"		"1320980279"
+		"addr"		"87.238.173.140:27015"
+	}
+	"server"
+	{
+		"name"		"            [QuickFrag.com] Payload Maps 24/7 | Stats"
+		"date"		"1321075681"
+		"addr"		"199.192.230.115:27015"
+	}
+	"server"
+	{
+		"name"		"            [QuickFrag.com] Payload Maps 24/7 | Stats"
+		"date"		"1321075683"
+		"addr"		"199.192.230.115:27016"
+	}
+	"server"
+	{
+		"name"		"ProTF2.com | Valve Maps #1 | Chicago, IL"
+		"date"		"1321075690"
+		"addr"		"173.249.151.4:27015"
+	}
+	"server"
+	{
+		"name"		"ProTF2.com | Popular Maps #1 | Chicago, IL"
+		"date"		"1321075692"
+		"addr"		"173.249.151.12:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater | New Jersey"
+		"date"		"1321075699"
+		"addr"		"66.55.148.157:27025"
+	}
+	"server"
+	{
+		"name"		"    [QuickFrag.com] Payload Maps | gameME"
+		"date"		"1322450753"
+		"addr"		"64.79.106.239:27015"
+	}
+	"server"
+	{
+		"name"		"    [QuickFrag.com] 24/7 Goldrush | gameME"
+		"date"		"1322450755"
+		"addr"		"64.79.106.238:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | GOLDRUSH | US3"
+		"date"		"1322711954"
+		"addr"		"46.21.154.180:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | US4"
+		"date"		"1322724199"
+		"addr"		"46.21.154.181:27015"
+	}
+	"server"
+	{
+		"name"		"    [QuickFrag.com] 24/7 Badwater | gameME"
+		"date"		"1324174182"
+		"addr"		"64.79.106.235:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Payload Race Stock | Texas"
+		"date"		"1331776717"
+		"addr"		"208.115.218.37:27015"
+	}
+}
