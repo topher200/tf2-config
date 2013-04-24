@@ -342,4 +342,226 @@
 		"date"		"1331776717"
 		"addr"		"208.115.218.37:27015"
 	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater | East Coast"
+		"date"		"1351239511"
+		"addr"		"64.237.38.26:27025"
+	}
+	"server"
+	{
+		"name"		"    skial.com | THUNDERMOUNTAIN | Texas"
+		"date"		"1351239513"
+		"addr"		"216.144.255.168:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | GOLDRUSH | NY"
+		"date"		"1351239514"
+		"addr"		"108.60.149.55:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | GOLDRUSH | Texas"
+		"date"		"1351239516"
+		"addr"		"216.144.255.164:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater #2 | New Jersey"
+		"date"		"1351239519"
+		"addr"		"66.55.148.157:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Hightower | Texas"
+		"date"		"1351239521"
+		"addr"		"208.115.218.34:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Goldrush | New Jersey"
+		"date"		"1351239522"
+		"addr"		"66.55.148.156:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [US] - BARNBLITZ 24/7"
+		"date"		"1352675427"
+		"addr"		"173.208.213.66:27116"
+	}
+	"server"
+	{
+		"name"		"    skial.com | VALVE MAPS | Chicago"
+		"date"		"1352687616"
+		"addr"		"67.202.71.68:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Stock Maps #5 | Texas"
+		"date"		"1352701742"
+		"addr"		"208.115.218.36:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Badwater | Germany"
+		"date"		"1352877644"
+		"addr"		"78.138.99.214:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | GOLDRUSH | NY"
+		"date"		"1352877651"
+		"addr"		"108.61.46.55:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Badwater/Goldrush | Texas"
+		"date"		"1352934977"
+		"addr"		"69.162.126.140:27025"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | NY"
+		"date"		"1353089635"
+		"addr"		"108.61.46.53:27015"
+	}
+	"server"
+	{
+		"name"		"LotusClan.com | 24/7 Badwater | France (x33)"
+		"date"		"1353111449"
+		"addr"		"178.32.54.252:27045"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Payload Stocks | East Coast"
+		"date"		"1353391436"
+		"addr"		"64.237.38.21:27025"
+	}
+	"server"
+	{
+		"name"		"    skial.com | THUNDERMOUNTAIN | EU"
+		"date"		"1353468254"
+		"addr"		"188.165.211.23:2035"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | US"
+		"date"		"1353468258"
+		"addr"		"46.21.154.190:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | BADWATER | Texas"
+		"date"		"1353468792"
+		"addr"		"216.144.255.165:27015"
+	}
+	"server"
+	{
+		"name"		"    skial.com | UPWARD | Texas"
+		"date"		"1353517235"
+		"addr"		"216.144.255.167:27015"
+	}
+	"server"
+	{
+		"name"		"This is Team Fortress 2 | 24/7 Payload #3"
+		"date"		"1356388609"
+		"addr"		"37.59.44.179:27037"
+	}
+	"server"
+	{
+		"name"		"Disciples of Bill Cosby {Payload EST}"
+		"date"		"1356967281"
+		"addr"		"199.229.249.120:2000"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Hightower | New Jersey"
+		"date"		"1356967778"
+		"addr"		"66.55.148.158:27025"
+	}
+	"server"
+	{
+		"name"		"|LT|DT Payload [FAST DL] - Live Together Die Together"
+		"date"		"1356981206"
+		"addr"		"199.229.249.121:2001"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [US] - UPWARD 24/7"
+		"date"		"1357073107"
+		"addr"		"108.61.53.26:27118"
+	}
+	"server"
+	{
+		"name"		"APC Payload Maps #2"
+		"date"		"1358092047"
+		"addr"		"64.79.106.130:2011"
+	}
+	"server"
+	{
+		"name"		" PwnShop [US#1|IL] (Vanilla Settings) <HLStatsX>"
+		"date"		"1358641519"
+		"addr"		"74.91.122.150:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Stock Maps #7 | East Coast"
+		"date"		"1358641533"
+		"addr"		"64.237.38.22:27025"
+	}
+	"server"
+	{
+		"name"		"Void Gaming, Payload #2, Illionis"
+		"date"		"1361651976"
+		"addr"		"64.79.106.137:2011"
+	}
+	"server"
+	{
+		"name"		"Void Gaming, 24/7 Badwater #1, Illionis"
+		"date"		"1361651981"
+		"addr"		"64.79.106.137:2006"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | Stock Maps #4 | East Coast"
+		"date"		"1363311077"
+		"addr"		"64.237.38.22:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.nighteam.com [US] - HIGHTOWER 24/7"
+		"date"		"1363311099"
+		"addr"		"173.208.242.66:27015"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Goldrush #2 | New Jersey"
+		"date"		"1365811087"
+		"addr"		"66.55.148.156:27025"
+	}
+	"server"
+	{
+		"name"		"Hell's Kitchen - Upward in Chicago"
+		"date"		"1366440641"
+		"addr"		"64.79.106.137:2009"
+	}
+	"server"
+	{
+		"name"		"    skial.com | PAYLOAD | EU"
+		"date"		"1366672421"
+		"addr"		"188.165.211.23:2045"
+	}
+	"server"
+	{
+		"name"		"Late Night Badwater"
+		"date"		"1366674901"
+		"addr"		"64.79.106.254:2009"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Hightower | Chicago"
+		"date"		"1366677533"
+		"addr"		"67.212.160.115:27015"
+	}
 }
