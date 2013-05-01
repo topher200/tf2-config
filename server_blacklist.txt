@@ -564,4 +564,46 @@
 		"date"		"1366677533"
 		"addr"		"67.212.160.115:27015"
 	}
+	"server"
+	{
+		"name"		"Void Gaming, PL Maps, Illinois"
+		"date"		"1366783884"
+		"addr"		"64.79.106.130:2000"
+	}
+	"server"
+	{
+		"name"		"Urnu's Rotation (Theme: Alpine)"
+		"date"		"1366784211"
+		"addr"		"64.79.106.254:2002"
+	}
+	"server"
+	{
+		"name"		"Adventure Time - Payload Maps - All Talk - NO BOTS"
+		"date"		"1366831588"
+		"addr"		"64.79.106.222:2000"
+	}
+	"server"
+	{
+		"name"		"Hell's Kitchen - Payload in Chicago"
+		"date"		"1366834256"
+		"addr"		"64.79.106.137:2005"
+	}
+	"server"
+	{
+		"name"		"Hell's Kitchen - Badwater in Chicago"
+		"date"		"1366998095"
+		"addr"		"64.79.106.137:2002"
+	}
+	"server"
+	{
+		"name"		"The Porn Server (18+) Payload"
+		"date"		"1367005115"
+		"addr"		"64.79.106.254:2007"
+	}
+	"server"
+	{
+		"name"		"    LotusClan.com | 24/7 Goldrush | West Coast"
+		"date"		"1367298566"
+		"addr"		"38.105.22.115:27055"
+	}
 }
