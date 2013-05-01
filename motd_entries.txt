@@ -1,34 +1,46 @@
 "motd_entries"
 {
-	"last_request_time"		"2013-02-22 19:45:57"
+	"last_request_time"		"2013-05-01 02:58:34"
 	"last_request_language"		"english"
 	"1"
 	{
 		"post_time"		"2010-06-08 15:00:00"
 		"title_english"		"Checked out the blog?"
 		"text_english"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
-		"url"		"http:\\www.teamfortress.com\"
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"2"
 	{
 		"post_time"		"2010-07-01 15:00:00"
 		"title_english"		"Official Wiki opens!"
 		"text_english"		"We've recently opened the doors on the Official TF2 wiki. There you can find out everything TF2 related, from the numerical nuts and bolts of every weapon to the easter eggs inside the Meet the Team movies. They're always looking for more contributors, so why not head over and help them?"
-		"url"		"http:\\wiki.teamfortress.com\"
+		"url"		"http://wiki.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"3"
 	{
 		"post_time"		"2010-09-30 15:00:00"
 		"title_english"		"The Mann-conomy Update!"
 		"text_english"		"Featuring over 50 new items, the Mann. Co Store and Catalog, trading, item customization, and much more! What are you waiting for? Get out there and get yourself some loot!"
-		"url"		"http:\\www.teamfortress.com\mannconomy"
+		"url"		"http://www.teamfortress.com/mannconomy"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"4"
 	{
 		"post_time"		"2010-11-08 15:00:00"
 		"title_english"		"The Halloween Sale Has Ended!"
 		"text_english"		"We hope you enjoyed the First Annual 'Second Annual TF2 Halloween Sale.' The Spine-Chilling Skull and Voodoo Juju hats have been removed from the store. Forever. For those of you lucky enough to have bought one, congratulations. The secret club meetings will be on Tuesdays at 1 PM PST in the server room."
-		"url"		"http:\\www.teamfortress.com\"
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"5"
 	{
@@ -36,6 +48,9 @@
 		"title_english"		"Item System Downtime 11/9/2010"
 		"text_english"		"The MannCo Store, trading, and item drops will be offline from 1 PM to 2:30 PM PST tomorrow. We don't like the color of the walls in the server room and have decided to turn the servers off while we repaint the room in a soft, inviting shade of mauve."
 		"url"		"http://www.teamfortress.com/post.php?id=4623&p=1"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"6"
 	{
@@ -43,6 +58,9 @@
 		"title_english"		"Poker Night at the Inventory"
 		"text_english"		"I hope you're better at cards than you are at killing maggots! New TF2 items incoming!"
 		"url"		"http://www.teamfortress.com/post.php?id=4608&p=1"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"7"
 	{
@@ -50,6 +68,9 @@
 		"title_english"		"It's a very Twisted Christmas!"
 		"text_english"		"Killing Floor's Twisted Christmas event begins on December 14th, featuring TF2's very own Pyro! Go take a look, and see how you can find some neat Pyro items!"
 		"url"		"http://www.killingfloorthegame.com/xmas/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"8"
 	{
@@ -57,6 +78,9 @@
 		"title_english"		"Winter Update"
 		"text_english"		"There's too much to write about here, so head over to the TF2 blog to read all about the new game mode, new items, how to support community map makers, and more."
 		"url"		"http://www.teamfortress.com/australianchristmas/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"9"
 	{
@@ -64,6 +88,9 @@
 		"title_english"		"A Stocking Stuffer"
 		"text_english"		"Against my better judgment I have allowed Miss Pauling to provide you with a small gift. Don't mistake this for kindness. I expect you to use it to kill something. -The Administrator"
 		"url"		"http://www.teamfortress.com/australianchristmas/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"10"
 	{
@@ -71,6 +98,9 @@
 		"title_english"		"Hat Sale On Now!"
 		"text_english"		"The Mann Co. Store is having another sale! In honor of the holiday season, for a limited time, the prices on a staggering number of hats are UNREASONABLY LOW!"
 		"url"		"http://www.teamfortress.com/australianchristmas/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"11"
 	{
@@ -78,6 +108,9 @@
 		"title_english"		"Festive Winter Crates expire soon!"
 		"text_english"		"Your Festive Winter Crates will disappear December 31st at midnight, Pacific time. Open them with a Festive Winter Crate Key or Stocking Stuffer Key to discover what wonders they contain."
 		"url"		"http://www.teamfortress.com/australianchristmas/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"12"
 	{
@@ -85,12 +118,18 @@
 		"title_english"		"Community Map Pack"
 		"text_english"		"Team Fortress 2 has been updated with three new community maps: plr_NightFall, pl_Frontier, and koth_Lakeside. Give them a try!"
 		"url"		"http://www.teamfortress.com/communitymappack"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"13"
 	{
 		"post_time"		"2011-02-28 18:00:00"
 		"title_english"		"New Hats and Slashed Prices"
 		"text_english"		"The Mann Co. Store has some hats for sale that were previously unavailable. We've also slashed prices on a bunch of older items, so come checkout the new deals!"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"14"
 	{
@@ -98,6 +137,9 @@
 		"title_english"		"The Shogun Pack Is Out Now!"
 		"text_english"		"Four new hats! Four new weapons! Eight expertly-crafted haikus! Come for the all-new, feudal Japan-themed items! Stay to reflect quietly on the meaning of existence!"
 		"url"		"http://www.teamfortress.com/shogunpack/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"15"
 	{
@@ -105,6 +147,9 @@
 		"title_english"		"Japan Disaster Relief"
 		"text_english"		"New limited-edition noisemakers and hats are now available! All proceeds (net of applicable taxes) support the American Red Cross disaster relief in Japan."
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"16"
 	{
@@ -112,6 +157,9 @@
 		"title_english"		"New Hats, Medieval Sale"
 		"text_english"		"Ten new hats have been added to the Mann-Co store. We've also put the Australian Christmas item sets on sale!"
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"17"
 	{
@@ -119,6 +167,9 @@
 		"title_english"		"The Hatless Update"
 		"text_english"		"Added a coaching system, a voting system, a new map (KotH Badlands), more training, better bots, and updates to various other parts of the game!"
 		"url"		"http://www.teamfortress.com/hatless"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"18"
 	{
@@ -126,6 +177,9 @@
 		"title_english"		"Battle Voting Ends Thursday"
 		"text_english"		"Thanks to all your help, only the strongest entries currently remain on the Voting page! Remember, Battle Voting ends tomorrow!"
 		"url"		"http://www.teamfortress.com/saxxyawards/vote.php"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"19"
 	{
@@ -133,6 +187,9 @@
 		"title_english"		"The Saxxy Nominees have been announced!"
 		"text_english"		"Each player gets one vote per category. You can change your vote right up until the voting ends this Monday, June 6th, at 11:00am PST."
 		"url"		"http://www.teamfortress.com/saxxyawards/vote.php"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"20"
 	{
@@ -140,13 +197,19 @@
 		"title_english"		"The Saxxy Winners have been announced!"
 		"text_english"		"Saxton Hale has bestowed upon a handful of the finest filmmakers tiny replicas of himself. 'Heavy enough to beat a man to death' indeed."
 		"url"		"http://www.teamfortress.com/saxxyawards/winners.php"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"21"
 	{
 		"post_time"		"2011-06-20 18:00:00"
 		"title_english"		"The Uber Update"
-		"text_english"		"Tune in all this week for the Über Update--the biggest, most ambitious update in the history of Team Fortress 2."
+		"text_english"		"Tune in all this week for the Uber Update--the biggest, most ambitious update in the history of Team Fortress 2."
 		"url"		"http://www.teamfortress.com/uberupdate"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"22"
 	{
@@ -154,6 +217,9 @@
 		"title_english"		"The Uber Update is Live!"
 		"text_english"		"TF2 is free to play and Meet the Medic is live! Visit the website to learn more."
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"23"
 	{
@@ -161,6 +227,9 @@
 		"title_english"		"Summer Sale!"
 		"text_english"		"We're having a sale in the Mann Co. Store on practically everything! Check them out while the deals are still hot!"
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"24"
 	{
@@ -168,6 +237,9 @@
 		"title_english"		"Summer Sale Ending Soon!"
 		"text_english"		"Reminder: on Monday the 11th the summer promotion will end! This is the last weekend to open your Refreshing Summer Coolers!"
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"25"
 	{
@@ -175,6 +247,9 @@
 		"title_english"		"Summer Sale Is Over!"
 		"text_english"		"The Mann Co. Summer Sale has ended! Some new items previously only available in Summer Coolers are now in stock!"
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"26"
 	{
@@ -182,6 +257,9 @@
 		"title_english"		"Dr. Grordbort's Crashes into TF2"
 		"text_english"		"A fine sampling of Dr. Grordbort's Infallible Aether Oscillators are now available in the TF2 store and in the real world at www.DrGrordborts.com!"
 		"url"		"http://www.drgrordborts.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"27"
 	{
@@ -189,6 +267,9 @@
 		"title_english"		"Inter-Universe Trading!"
 		"text_english"		"You can now trade TF2 items for Portal 2 items, Spiral Knights items, and Steam Gifts!"
 		"url"		"http://store.steampowered.com/news/6201"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"28"
 	{
@@ -196,6 +277,9 @@
 		"title_english"		"Enter... MONOCULUS!"
 		"text_english"		"FOOL! Ye have gazed upon the Bombinomicon! Welcome to the Third Annual Scream Fortress!"
 		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
+		"header_type"		"0"
+		"header_english"		"News"
 	}
 	"29"
 	{
